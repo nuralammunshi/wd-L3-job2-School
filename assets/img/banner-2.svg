@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 760" role="img" aria-labelledby="title desc">
+  <title id="title">A welcoming school campus</title><desc id="desc">Illustration of a school building surrounded by trees and a garden.</desc>
+  <defs><linearGradient id="sky" x2="0" y2="1"><stop stop-color="#a8d1d8"/><stop offset="1" stop-color="#e8eedb"/></linearGradient></defs>
+  <rect width="1600" height="760" fill="url(#sky)"/><circle cx="1285" cy="142" r="86" fill="#f8d087"/><path d="M0 498q240-91 475 0t470 0 655 3v259H0z" fill="#8fb58c"/><path d="M0 584q270-81 510 0t515-4 575 6v174H0z" fill="#679572"/>
+  <path d="M400 320 790 95l390 225v329H400z" fill="#f5eee0"/><path d="M356 334 790 82l430 252-23 42-407-235-410 236z" fill="#176b87"/><path d="M610 387h354v262H610z" fill="#cbdde0"/><path d="M645 420h130v92H645zM800 420h129v92H800z" fill="#8ebac3"/><path d="M645 544h130v94H645zM800 544h129v94H800z" fill="#8ebac3"/><path d="M984 423h126v226H984z" fill="#ad7d56"/><path d="M1026 522h42v127h-42z" fill="#e1c59f"/><rect x="488" y="375" width="88" height="124" rx="7" fill="#fff" opacity=".75"/><rect x="488" y="523" width="88" height="126" rx="7" fill="#fff" opacity=".75"/>
+  <path d="M0 649h1600" stroke="#d4c393" stroke-width="30"/><path d="M0 700h1600" stroke="#eee2c3" stroke-width="14"/><g fill="#547d58"><circle cx="260" cy="412" r="91"/><circle cx="190" cy="454" r="69"/><circle cx="1370" cy="410" r="98"/><circle cx="1450" cy="468" r="68"/><circle cx="115" cy="502" r="61"/></g><g stroke="#826349" stroke-width="28"><path d="M255 441v226M1370 438v230M118 521v174"/></g>
+  <g fill="#f4c66d"><circle cx="493" cy="697" r="13"/><circle cx="535" cy="702" r="10"/><circle cx="1132" cy="690" r="13"/><circle cx="1184" cy="706" r="10"/></g>
+</svg>

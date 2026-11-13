@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 760" role="img" aria-labelledby="title desc">
+  <title id="title">A teacher encouraging students</title><desc id="desc">Illustration of a teacher helping students work together in class.</desc>
+  <defs><linearGradient id="room" x2="1" y2="1"><stop stop-color="#d6e8df"/><stop offset="1" stop-color="#f2d8af"/></linearGradient></defs>
+  <rect width="1600" height="760" fill="url(#room)"/><path d="M0 519h1600v241H0z" fill="#e9e9dc"/><rect x="110" y="85" width="445" height="290" rx="16" fill="#fff" opacity=".85"/><rect x="136" y="111" width="393" height="238" rx="8" fill="#92c4c7"/><path d="M332 111v238M136 230h393" stroke="#fff" stroke-width="13"/><path d="M139 339c88-83 152-60 195-3 45-79 128-58 191 6H139z" fill="#73a47d"/>
+  <rect x="885" y="105" width="544" height="265" rx="16" fill="#e6efe7"/><path d="M940 168h429M940 218h310M940 270h372" stroke="#a9c5b7" stroke-width="14" stroke-linecap="round"/><circle cx="1350" cy="169" r="20" fill="#e7ae4c"/>
+  <rect x="228" y="567" width="1135" height="34" rx="17" fill="#a77c59"/><path d="M307 600v129M1280 600v129" stroke="#87644c" stroke-width="24" stroke-linecap="round"/>
+  <g transform="translate(695 230)"><circle cx="145" cy="64" r="53" fill="#d49a70"/><path d="M94 59c3-66 96-82 116-21-35-16-75-5-116 21z" fill="#26383c"/><path d="M76 129q70-51 142 0l41 225H35z" fill="#176b87"/><path d="M85 149 53 239l68 15 38-79" fill="#d49a70"/><path d="m219 153 46 62-48 30-42-78" fill="#d49a70"/><path d="M105 159h83" stroke="#f5cb7b" stroke-width="14"/></g>
+  <g transform="translate(357 394)"><circle cx="95" cy="48" r="40" fill="#925e43"/><path d="M56 42c4-48 71-59 84-10-25-10-52-6-84 10z" fill="#292f3b"/><path d="M35 92q58-41 116 0l31 145H8z" fill="#db9144"/><path d="M56 126h67" stroke="#fff0d5" stroke-width="11"/></g>
+  <g transform="translate(1100 398)"><circle cx="94" cy="45" r="39" fill="#b77955"/><path d="M56 39c2-49 70-61 83-10-29-12-58-3-83 10z" fill="#303941"/><path d="M33 87q59-41 119 0l31 149H8z" fill="#557c61"/><path d="M56 121h68" stroke="#e5d7ac" stroke-width="11"/></g>
+  <g fill="#f3c874"><circle cx="1420" cy="456" r="22"/><circle cx="1482" cy="493" r="15"/><circle cx="87" cy="487" r="17"/></g>
+</svg>
